@@ -4,6 +4,9 @@ Turn your [Claude Code](https://docs.anthropic.com/en/docs/claude-code) AI codin
 
 > "Be the hardest worker out there."
 
+<img width="820" height="94" alt="Screenshot 2026-04-22 at 10 14 19 PM" src="https://github.com/user-attachments/assets/99634da7-a58b-4d0e-a683-ee2bd6073128" />
+
+
 ## What You Get
 
 - Full character voice across all interactions — chirps, leadership speeches, genuine moments
